@@ -1,6 +1,6 @@
 # ink word counter
 
-**Note that since I made this project, I've added this as an official feature to both [Inky](https://github.com/inkle/inky) (via Story -> Word Count and more) and the [ink compiler](https://github.com/inkle/ink) (pass `-s` on command line), though at the time of writing I haven't done an official new release.**
+**Note that since I made this project, I've added this as an official "statistics" feature to both [Inky](https://github.com/inkle/inky) (via Story -> Word Count and more) and the [ink compiler](https://github.com/inkle/ink) (pass `-s` on command line), though at the time of writing I haven't done an official new release.**
 
 Count number of words in an [ink](https://www.github.com/inkle/ink) project.
 
